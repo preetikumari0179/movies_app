@@ -6,5 +6,8 @@
         "extends": "airbnb",
         "plugins": ["vue"]
 
-    }
+    },
+    "plugins": [
+        "html"
+    ]
 }
