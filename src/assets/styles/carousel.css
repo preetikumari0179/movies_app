@@ -1,0 +1,43 @@
+.balck-background-box{
+    width: 100%;
+    max-width: 1240px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: #24242c;
+    margin-bottom: 50px;
+}
+
+    .title {
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #69c297;
+  padding: 7px 5px;
+  text-align: left;
+    }
+    .movie-content {
+         background-color: #24242c;
+         padding: 5px;
+    margin: 20px 0px 100px 10px;
+    display: block
+    }
+    .VueCarousel {
+        display: block !important
+    }
+
+    .no-result{
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+    padding: 7px 5px;
+    text-align: left;
+    }
